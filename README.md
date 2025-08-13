@@ -25,21 +25,11 @@ Este repositório contém minha documentação prática do processo de criação
 `Documentacao-S3-AWS/`
 
 ```
-├── s3-screenshots/          # Capturas de tela organizadas por etapa
-│   ├── 01-criacao-bucket.png
-│   ├── 02-regiao-permissoes.png
-│   ├── 03-upload.png
-│   ├── 04-arquivos-bucket.png
-│   ├── 05-teste-access-denied.png
-│   ├── 06-politica-publica.png
-│   ├── 07-hospedagem-estatica.png
-│   └── 08-site-online.png
-├── site-files/              # Arquivos do site estático
-│   ├── index.html
-│   ├── style.css
-│   ├── script.js
-│   └── imagens/
-└── README.md
+imagens/
+s3-screenshots/
+site-files/
+README.md
+
 ```
 
 ---
