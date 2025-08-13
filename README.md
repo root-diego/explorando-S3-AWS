@@ -143,6 +143,3 @@ Após a configuração, foi possível acessar o site pela URL pública gerada.
 <img width="1302" height="693" alt="11-site-online" src="https://github.com/user-attachments/assets/2381f2ea-01f8-402f-85a4-7f7fbe97b413" />
 
 ---
-
-💡 **Conclusão:**
-O Amazon S3 oferece uma maneira simples, rápida e escalável de hospedar sites estáticos, eliminando a necessidade de servidores dedicados para esse tipo de aplicação.
