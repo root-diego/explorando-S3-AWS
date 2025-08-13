@@ -136,4 +136,4 @@ Após a configuração, foi possível acessar o site pela URL pública gerada.
 
 ⚠️ ***Observação***
 
-***O site não está disponível***, pois a tarefa foi realizada em um sandbox da AWS com tempo limitado de execução. O laboratório tem duração de cerca de 3 horas, após o que os recursos são automaticamente encerrados.
+***O site não está disponível***, pois a tarefa foi realizada em um sandbox da AWS com tempo limitado de execução. O laboratório tem duração de cerca de 3 horas, após o tempo corrido os recursos são automaticamente encerrados.
