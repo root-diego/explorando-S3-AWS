@@ -25,10 +25,10 @@ Este repositório contém minha documentação prática do processo de criação
 `Documentacao-S3-AWS/`
 
 ```
-imagens/
-s3-screenshots/
-site-files/
-README.md
+├── imagens/
+├── s3-screenshots/
+├── site-files/
+└──README.md
 
 ```
 
