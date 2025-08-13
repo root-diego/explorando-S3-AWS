@@ -133,3 +133,7 @@ Após a configuração, foi possível acessar o site pela URL pública gerada.
 <img width="1302" height="693" alt="11-site-online" src="https://github.com/user-attachments/assets/2381f2ea-01f8-402f-85a4-7f7fbe97b413" />
 
 ---
+
+⚠️ ***Observação***
+
+***O site não está disponível***, pois a tarefa foi realizada em um sandbox da AWS com tempo limitado de execução. O laboratório tem duração de cerca de 3 horas, após o que os recursos são automaticamente encerrados.
