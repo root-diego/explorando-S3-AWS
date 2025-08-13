@@ -1,4 +1,4 @@
-# 🪣 Documentação: Deploy de Site Estático no Amazon S3 (AWS re/Start)
+# 🪣 Documentação: Deploy de Site Estático no Amazon S3
 
 Este repositório contém minha documentação prática do processo de criação e configuração de um bucket S3 para hospedar um site estático, como parte das atividades do programa **AWS re/Start - Campinho Digital**.
 
