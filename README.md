@@ -22,7 +22,7 @@ Este repositório contém minha documentação prática do processo de criação
 
 ## 📁 Estrutura do Repositório
 
-`Documentacao-S3-AWS/`
+`conhecendo-S3-AWS`
 
 ```
 ├── imagens/
