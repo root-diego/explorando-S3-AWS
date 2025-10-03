@@ -1,14 +1,14 @@
 # 🪣 Documentação: Deploy de Site Estático no Amazon S3
 
-Este repositório contém minha documentação prática do processo de criação e configuração de um bucket S3 para hospedar um site estático, como parte das atividades do programa **AWS re/Start - Campinho Digital**.
+Este repositório contém minha documentação prática do processo de criação e configuração de um bucket S3 para hospedar um site estático, como parte das atividades do programa **AWS re/Start - Escola da Nuvem ☁️**.
 
 ---
 
-## 🧠 O que eu aprendi
+## 🧠 Habilidades adquiridas:
 
-* Criar e configurar um bucket no Amazon S3
-* Fazer upload dos arquivos do site (HTML, CSS, JS)
-* Configurar permissões e políticas para acesso público
+* Criação e configuração de um bucket no Amazon S3
+* Realização de upload dos arquivos do site (HTML, CSS, JS)
+* Configuração de permissões e políticas para acesso público
 * Ativar a hospedagem de site estático no S3
 * Testar a URL pública do site
 
@@ -16,7 +16,7 @@ Este repositório contém minha documentação prática do processo de criação
 
 🛠️ Tecnologias Utilizadas
 
-<div align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50" height="50"/> </div>
+<div align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
 
 ---
 
